@@ -1,0 +1,19 @@
+{
+  "name": "ng-wpf",
+  "version": "1.0.0",
+  "description": "WPF controls for AngularJS applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msupetran/ng-wpf.git"
+  },
+  "author": "Marlon Supetran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msupetran/ng-wpf/issues"
+  },
+  "homepage": "https://github.com/msupetran/ng-wpf#readme"
+}
